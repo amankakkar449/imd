@@ -6,3 +6,4 @@ fiona
 pyproj
 rtree
 matplotlib
+pykrige
