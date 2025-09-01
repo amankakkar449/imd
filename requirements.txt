@@ -1,9 +1,12 @@
 streamlit
-geopandas
 pandas
+geopandas
+numpy==1.26.4
+scipy==1.13.1
+matplotlib
+pykrige
+rasterio
 shapely
 fiona
 pyproj
 rtree
-matplotlib
-pykrige
